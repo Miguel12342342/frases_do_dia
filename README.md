@@ -1,16 +1,51 @@
-# frases_do_dia
+📜 Frases do Dia: Sabedoria em Português
+✨ Sobre o Projeto
+O "Frases do Dia" é uma aplicação que entrega doses diárias de inspiração e reflexão. O projeto demonstra habilidades em integração e manipulação de dados, utilizando múltiplas APIs para buscar frases filosóficas originais em inglês e, em seguida, traduzi-las automaticamente para o português, garantindo uma experiência nativa ao usuário.
 
-A new Flutter project.
+💡 Como Funciona
+A aplicação segue um fluxo de trabalho em duas etapas para buscar, traduzir e exibir o conteúdo:
 
-## Getting Started
+Busca da Frase Original: O sistema faz uma requisição a uma API externa para obter uma nova citação filosófica aleatória no idioma inglês.
 
-This project is a starting point for a Flutter application.
+Tradução Automática: A frase obtida é imediatamente enviada a uma API de Tradução, que a converte com precisão do inglês para o português.
 
-A few resources to get you started if this is your first Flutter project:
+Exibição: A frase original e sua tradução finalizada são exibidas na interface do usuário.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Tecnologias Utilizadas
+Este projeto demonstra a proficiência nas seguintes tecnologias:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lógica de Programação: DART
+
+Estrutura: FLUTTER
+
+
+APIs Integradas:
+
+API de Citações (Ex: ZenQuotes, Quotable)
+
+API de Tradução (Ex: Google Translate API, DeepL API)
+
+⚙️ Instalação e Execução
+Siga os passos abaixo para testar o aplicativo em seu ambiente local:
+
+Pré-requisitos
+Você precisará de acesso às APIs (se usar um ambiente de backend como Node.js).
+
+Passos
+Clone o Repositório:
+
+Bash
+
+git clone https://github.com/SeuUsuario/FrasesDoDia.git
+Entre na Pasta do Projeto:
+
+Bash
+
+cd FrasesDoDia
+Abra o Arquivo: Basta abrir o arquivo index.html em seu navegador para que o JavaScript comece a fazer as chamadas de API.
+
+🤝 Contribuição
+Sinta-se à vontade para sugerir melhorias, como novas fontes de frases ou otimizações de tradução.
+
+📝 Licença
+Distribuído sob a licença MIT.
