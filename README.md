@@ -1,4 +1,7 @@
 #📜 Frases do Dia: Sabedoria em Português
+
+<img width="491" height="807" alt="frases do dia" src="https://github.com/user-attachments/assets/5d0db0f8-3eaa-406f-830f-5db25bfe1cb5" />
+
 ## ✨ Sobre o Projeto
 O "Frases do Dia" é uma aplicação que entrega doses diárias de inspiração e reflexão. O projeto demonstra habilidades em integração e manipulação de dados, utilizando múltiplas APIs para buscar frases filosóficas originais em inglês e, em seguida, traduzi-las automaticamente para o português, garantindo uma experiência nativa ao usuário.
 
