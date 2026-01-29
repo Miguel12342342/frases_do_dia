@@ -49,4 +49,3 @@ Abra o Arquivo: Basta abrir o arquivo index.html em seu navegador para que o Jav
 
 ## 🤝 Contribuição
 Sinta-se à vontade para sugerir melhorias, como novas fontes de frases ou otimizações de tradução.
-
