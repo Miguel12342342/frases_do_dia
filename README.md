@@ -2,7 +2,7 @@
 
 <img width="329" height="737" alt="frases_do_dia" src="https://github.com/user-attachments/assets/d99314ca-6fe3-4e04-b4ba-d1b099ed0218" />
 
-## ✨ Sobre o Projeto![Uploading frases_do_dia.png…]()
+## ✨ Sobre o Projeto!
 
 O "Frases do Dia" é uma aplicação que entrega doses diárias de inspiração e reflexão. O projeto demonstra habilidades em integração e manipulação de dados, utilizando múltiplas APIs para buscar frases filosóficas originais em inglês e, em seguida, traduzi-las automaticamente para o português, garantindo uma experiência nativa ao usuário.
 
